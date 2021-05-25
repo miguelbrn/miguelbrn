@@ -14,17 +14,17 @@
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 from Lahore, Pakistan.
+Um **Estudante de Desenvolvimento de Software** 🚀
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Sobre mim!**
 
 - 👨🏽‍💻 Estudo desenvolvimento de Software Web na Trybe, onde também aprendo muito sobre Softskills
-- 👨🏽‍💻 Também sou estudante de Engenharia da Computação na Faculdade Potiguar
+- 👨🏽‍💻 Também sou estudante de Engenharia da Computação pela Faculdade Potiguar
 - 💬 Se tem algo em que possa ajudar, entre em contato comigo, eu adoro desafios e aprender!
 - 📫 Me mande um E-mail [miiguelalb@gmail.com](mailto:miiguelalb@gmail.com).
-- 📝 Veja meu [Currículo]()) para saber mais sobre mim.
+- 📝 Veja meu [Currículo]() para saber mais sobre mim.
 
 
 **Linguagens e Ferramentas:**  
