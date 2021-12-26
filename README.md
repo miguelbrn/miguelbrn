@@ -22,7 +22,7 @@
 
 - 👨🏽‍💻 Estudo desenvolvimento de Software Web na Trybe, onde também aprendo muito sobre Softskills
 - 👨🏽‍💻 Também sou estudante de Engenharia da Computação pela Faculdade Potiguar
-- 💬 Se tem algo em que possa ajudar, entre em contato comigo, eu adoro desafios e aprender!
+- 💬 Se tem algo em que eu possa ajudar, entre em contato comigo, eu adoro desafios e aprender!
 - 📫 Me mande um E-mail [miiguelalb@gmail.com](mailto:miiguelalb@gmail.com).
 - 📝 Veja meu [Currículo](https://docs.google.com/document/d/12cGh99dDr2KyTDcIcJkBACLLqb1oDWZu5ZnOB1jbIUs/edit?usp=sharing) para saber mais sobre mim.
 
