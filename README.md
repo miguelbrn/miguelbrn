@@ -1,14 +1,11 @@
 <div align="center">
-<h1 title="hehehe"> Olá 👋, meu nome é Miguel!</h1>
+<h1 title="hehehe">Miguel Dantas</h1>
 </div>
 <a href="https://www.linkedin.com/in/miguelbrn/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/miguelbrn/">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/miguelbrn">
-  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
@@ -20,9 +17,9 @@
 
 **Sobre mim!**
 
-- 👨🏽‍💻 Estudo desenvolvimento de Software Web na Trybe, onde também aprendo muito sobre Softskills
-- 👨🏽‍💻 Também sou estudante de Engenharia da Computação pela Faculdade Potiguar
-- 💬 Se tem algo em que eu possa ajudar, entre em contato comigo, eu adoro desafios e aprender!
+- 👨🏽‍💻 Sou desenvolvedor de software na __Rits Tecnologia__ uma empresa do grupo __BlackLab__.
+- 👨🏽‍💻 Também sou estudante de Engenharia da Computação pela Universidade Potiguar.
+- 💬 Se tem algo em que eu possa ajudar, entre em contato comigo.
 - 📫 Me mande um E-mail [miiguelalb@gmail.com](mailto:miiguelalb@gmail.com).
 - 📝 Veja meu [Currículo](https://docs.google.com/document/d/12cGh99dDr2KyTDcIcJkBACLLqb1oDWZu5ZnOB1jbIUs/edit?usp=sharing) para saber mais sobre mim.
 
