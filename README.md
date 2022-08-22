@@ -17,7 +17,7 @@
 
 **Sobre mim!**
 
-- 👨🏽‍💻 Sou desenvolvedor de software na __Rits Tecnologia__ uma empresa do grupo __BlackLab__.
+- 👨🏽‍💻 Sou desenvolvedor de software na __NuageIt__.
 - 👨🏽‍💻 Também sou estudante de Engenharia da Computação pela Universidade Potiguar.
 - 💬 Se tem algo em que eu possa ajudar, entre em contato comigo.
 - 📫 Me mande um E-mail [miiguelalb@gmail.com](mailto:miiguelalb@gmail.com).
