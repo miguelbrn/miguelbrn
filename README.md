@@ -11,17 +11,9 @@
 <br />
 <br />
 
-**Desenvolvedor FullStack** 🚀
+**Cloud Dev** 🚀
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**Sobre mim!**
-
-- 👨🏽‍💻 Sou desenvolvedor de software na __NuageIt__.
-- 👨🏽‍💻 Também sou estudante de Engenharia da Computação pela Universidade Potiguar.
-- 💬 Se tem algo em que eu possa ajudar, entre em contato comigo.
-- 📫 Me mande um E-mail [miiguelalb@gmail.com](mailto:miiguelalb@gmail.com).
-- 📝 Veja meu [Currículo](https://docs.google.com/document/d/12cGh99dDr2KyTDcIcJkBACLLqb1oDWZu5ZnOB1jbIUs/edit?usp=sharing) para saber mais sobre mim.
 
 
 **Linguagens e Ferramentas:**  
